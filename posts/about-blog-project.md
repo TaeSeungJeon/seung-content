@@ -61,27 +61,7 @@ React 프론트엔드 배포는 GitHub Pages를 선택! 별도의 서버 없이 
 
 ---
 
-## 시스템 아키텍처
-
-[사용자 브라우저]
-│
-▼
-[GitHub Pages]        ← React + TypeScript + Vite
-(seung-frontend)          정적 파일 서빙
-│
-│ HTTP 요청 (Axios)
-▼
-[Oracle Cloud]        ← Spring Boot REST API
-(seung-backend)           포트 8080
-│
-├─────────────────────────────┐
-▼                             ▼
-[GitHub Contents API]    [GitHub Issues API]
-(seung-content 레포)      (방명록 데이터)
-│
-▼
-[.md 파일들]
-(블로그 글)
+<img width="496" height="432" alt="image" src="https://github.com/user-attachments/assets/55552f95-c12e-4cb4-b88d-d81979d49744" />
 
 ---
 
