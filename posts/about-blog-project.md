@@ -187,8 +187,8 @@ DB 없이 GitHub 레포가 CMS(콘텐츠 관리 시스템) 역할.
 
 ### 끝까지 읽어주신 방문자님께 행운을 :four_leaf_clover: :heavy_dollar_sign: 
 
-ps. 구체적인 프로젝트 리뷰는 season2를 기대하시라....
-
 ---
+
+ps. 구체적인 프로젝트 리뷰는 season2를 기대하시라....
 
 ![Image](https://github.com/user-attachments/assets/7eb5e70e-9b6c-4a1a-8113-dabfe11cc9ae)
