@@ -1,5 +1,5 @@
 ---
-title: "Seung Blog 소개 :clap: Spring Boot + React + 깃허브 API 이 조합 맛있잖아!!"
+title: "Seung Blog 소개! Spring Boot + React + 깃허브 API 이 조합 맛있잖아!!"
 date: "2026-04-06"
 description: "GitHub API를 활용한 서버리스 아키텍처 기반의 풀스택 개인 포트폴리오 플레이그라운드 블로그 등장. 두둥탁!"
 ---
