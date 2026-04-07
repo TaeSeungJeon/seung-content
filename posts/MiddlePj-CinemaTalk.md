@@ -7,7 +7,7 @@ category: "Dev"
 
 # 1. 게시글 작성 (BoardOkController)
 
-<img width="1367" height="926" alt="Image" src="https://github.com/user-attachments/assets/996fac9f-dcf8-4fcc-b2c6-39581edf7cf8" />
+![Image](https://github.com/user-attachments/assets/996fac9f-dcf8-4fcc-b2c6-39581edf7cf8)
 
 ### 구현 내용
 
@@ -109,7 +109,7 @@ if (e.keyCode == 13) { items[currentFocus].click(); }       // 선택
 
 # 2. 게시글 목록 & 페이지네이션 (BoardListController)
 
-<img width="1714" height="864" alt="Image" src="https://github.com/user-attachments/assets/23e61ac4-55ea-46b3-bd27-112d351c3875" />
+![Image](https://github.com/user-attachments/assets/23e61ac4-55ea-46b3-bd27-112d351c3875)
 
 ### 구현 내용
 
@@ -227,7 +227,7 @@ if (movieId != 0) {
 
 # 3. 게시글 상세 & 링크 미리보기 (PostDetailController)
 
-<img width="1703" height="909" alt="Image" src="https://github.com/user-attachments/assets/93bef593-28cd-4e9b-bf98-8057768a0f63" />
+![Image](https://github.com/user-attachments/assets/93bef593-28cd-4e9b-bf98-8057768a0f63)
 
 ### 구현 내용
 
@@ -371,7 +371,7 @@ json.append("]}");
 # 4. 게시글 수정/삭제 
 (BoardUpdateOkController/BoardDeleteController)
 
-<img width="959" height="863" alt="Image" src="https://github.com/user-attachments/assets/d360d61c-ba24-4179-9061-0c7ebf7ed741" />
+![Image](https://github.com/user-attachments/assets/d360d61c-ba24-4179-9061-0c7ebf7ed741)
 
 ### 구현 내용
 
@@ -442,7 +442,7 @@ forward.setRedirect(false);
 
 # 5. 사이드바 & 홈 하단 인기글/최근글 노출
 
-<img width="936" height="723" alt="Image" src="https://github.com/user-attachments/assets/9a360334-9325-4be0-bf2d-bd24a2bfff9f" />
+![Image](https://github.com/user-attachments/assets/9a360334-9325-4be0-bf2d-bd24a2bfff9f)
 
 ### 구현 방식
 
@@ -455,7 +455,7 @@ forward.setRedirect(false);
 
 # 6. 댓글 시스템 (CommentsOkController/CommentsDAO)
 
-<img width="749" height="743" alt="Image" src="https://github.com/user-attachments/assets/d38f8750-7165-496b-bcbd-af344d1ac13d" />
+![Image](https://github.com/user-attachments/assets/d38f8750-7165-496b-bcbd-af344d1ac13d)
 
 ### 구현 내용
 
