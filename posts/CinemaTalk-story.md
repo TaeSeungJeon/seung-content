@@ -13,7 +13,7 @@ category: "Dev"
 바로 영화 커뮤니티 서비스였다. 그 동안 배운 CRUD를 학습하기 좋은 프로젝트였고,
 DB를 신나게 만져볼 수 있는 좋은 프로젝트라고 생각했다. 
 
-<img width="384" height="261" alt="Image" src="https://github.com/user-attachments/assets/b96bce2c-1593-4f37-8094-a8e6464de811" />
+![Image](https://github.com/user-attachments/assets/b96bce2c-1593-4f37-8094-a8e6464de811)
 
 PL : 전태승 - 게시판 관련 일체 (나야 나^^) 
 
@@ -29,7 +29,7 @@ DA : 노윤하 - 관리자 페이지, 로그인 관련 일체
 먼저, 팀원중 UA 라마다니 샤리님 께서 피그마를 통해 기본적인 구상을 공유를 해줬다.
 해당 자료를 넘겨받아 뼈대를 제작하여 홈 UI를 jsp 파일로 완성을 시켰고, 
 
-<img width="330" height="300" alt="Image" src="https://github.com/user-attachments/assets/ac74e5b8-39c1-4073-ae6f-f09931f78eae" /> (ㅎㅎ.. 귀엽다😂)
+![Image](https://github.com/user-attachments/assets/ac74e5b8-39c1-4073-ae6f-f09931f78eae)(ㅎㅎ.. 귀엽다😂)
 
 
 완성된 자료를 토대로 TA 한재훈님 께서 헤더와 풋터를 분리하여 진행을 하기 시작했다. 이어 
@@ -42,7 +42,7 @@ UI를 구상하는 동안 팀의 부팀장이었던 AA 임원호님과 Maven 빌
 머지않아 프론트 1차 작업이 끝이났고 곧 바로 각자 맡은 역할에 투입!! 
 
 
-<img width="500" height="280" alt="Image" src="https://github.com/user-attachments/assets/68d8d0a1-8724-4576-9072-660c6d94bd18" />
+![Image](https://github.com/user-attachments/assets/68d8d0a1-8724-4576-9072-660c6d94bd18)
 
 Cinema-Talk 시~~작!!
 
