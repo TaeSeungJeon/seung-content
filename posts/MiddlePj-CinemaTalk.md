@@ -1,6 +1,6 @@
 ---
 title: "👏👏중간프로젝트 '씨네마-톡' 리뷰"
-date: "2026-03-27"
+date: "2026-04-07"
 description: "Servlet MVC 지옥의 맛 찍먹 ver 1."
 category: "Dev"
 ---
