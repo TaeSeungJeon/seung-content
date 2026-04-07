@@ -11,8 +11,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ## 😀 얼굴 · 감정
 
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 😀 | `:grinning:` | 😁 | `:grin:` |
 | 😂 | `:joy:` | 🤣 | `:rofl:` |
 | 😃 | `:smiley:` | 😄 | `:smile:` |
@@ -65,8 +63,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ## 👋 손 · 몸
 
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 👋 | `:wave:` | 🤚 | `:raised_back_of_hand:` |
 | 🖐 | `:raised_hand_with_fingers_splayed:` | ✋ | `:raised_hand:` |
 | 🖖 | `:vulcan_salute:` | 🫱 | `:rightwards_hand:` |
@@ -102,8 +98,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ## 👶 사람 · 활동
 
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 👶 | `:baby:` | 🧒 | `:child:` |
 | 👦 | `:boy:` | 👧 | `:girl:` |
 | 🧑 | `:person:` | 👱 | `:blonde_person:` |
@@ -137,10 +131,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ## 🐶 동물 · 자연
 
-### 포유류 · 조류
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🐶 | `:dog:` | 🐱 | `:cat:` |
 | 🐭 | `:mouse:` | 🐹 | `:hamster:` |
 | 🐰 | `:rabbit:` | 🦊 | `:fox_face:` |
@@ -162,11 +152,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 🦉 | `:owl:` | 🦇 | `:bat:` |
 | 🦚 | `:peacock:` | 🦜 | `:parrot:` |
 | 🐓 | `:rooster:` | 🦃 | `:turkey:` |
-
-### 곤충 · 파충류 · 해양
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🐝 | `:bee:` | 🐛 | `:bug:` |
 | 🦋 | `:butterfly:` | 🐌 | `:snail:` |
 | 🐞 | `:beetle:` | 🐜 | `:ant:` |
@@ -183,8 +168,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ### 식물
 
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🌵 | `:cactus:` | 🌲 | `:evergreen_tree:` |
 | 🌳 | `:deciduous_tree:` | 🌴 | `:palm_tree:` |
 | 🌱 | `:seedling:` | 🌿 | `:herb:` |
@@ -199,8 +182,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ### 날씨 · 하늘
 
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | ☀️ | `:sunny:` | 🌤️ | `:partly_sunny:` |
 | ⛅ | `:partly_sunny:` | ☁️ | `:cloud:` |
 | 🌧️ | `:cloud_with_rain:` | ⛈️ | `:thunder_cloud_and_rain:` |
@@ -222,10 +203,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ## 🍕 음식 · 음료
 
-### 과일 · 채소
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🍎 | `:apple:` | 🍐 | `:pear:` |
 | 🍊 | `:tangerine:` | 🍋 | `:lemon:` |
 | 🍌 | `:banana:` | 🍉 | `:watermelon:` |
@@ -241,11 +218,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 🌽 | `:corn:` | 🥕 | `:carrot:` |
 | 🧄 | `:garlic:` | 🧅 | `:onion:` |
 | 🥔 | `:potato:` | 🍠 | `:sweet_potato:` |
-
-### 요리 · 음식
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🥐 | `:croissant:` | 🥯 | `:bagel:` |
 | 🍞 | `:bread:` | 🥖 | `:baguette_bread:` |
 | 🧀 | `:cheese:` | 🥚 | `:egg:` |
@@ -268,11 +240,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 🍪 | `:cookie:` | 🍫 | `:chocolate_bar:` |
 | 🍬 | `:candy:` | 🍭 | `:lollipop:` |
 | 🍿 | `:popcorn:` | 🍯 | `:honey_pot:` |
-
-### 음료
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | ☕ | `:coffee:` | 🫖 | `:teapot:` |
 | 🍵 | `:tea:` | 🧋 | `:bubble_tea:` |
 | 🥛 | `:milk_glass:` | 🧃 | `:beverage_box:` |
@@ -285,11 +252,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 ---
 
 ## ✈️ 여행 · 장소
-
-### 교통수단
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🚗 | `:car:` | 🚕 | `:taxi:` |
 | 🚙 | `:blue_car:` | 🚌 | `:bus:` |
 | 🏎️ | `:racing_car:` | 🚓 | `:police_car:` |
@@ -304,11 +266,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 🛸 | `:flying_saucer:` | 🛶 | `:canoe:` |
 | ⛵ | `:sailboat:` | 🚤 | `:speedboat:` |
 | 🚢 | `:ship:` | ⚓ | `:anchor:` |
-
-### 건물 · 장소
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🏔️ | `:mountain_snow:` | ⛰️ | `:mountain:` |
 | 🗻 | `:mount_fuji:` | 🌋 | `:volcano:` |
 | 🏕️ | `:camping:` | 🏖️ | `:beach_umbrella:` |
@@ -329,11 +286,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 ---
 
 ## ⚽ 스포츠 · 활동
-
-### 스포츠
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | ⚽ | `:soccer:` | 🏀 | `:basketball:` |
 | 🏈 | `:football:` | ⚾ | `:baseball:` |
 | 🥎 | `:softball:` | 🎾 | `:tennis:` |
@@ -348,11 +300,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 🏆 | `:trophy:` | 🥇 | `:first_place_medal:` |
 | 🥈 | `:second_place_medal:` | 🥉 | `:third_place_medal:` |
 | 🏅 | `:sports_medal:` | | |
-
-### 예술 · 오락
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🎭 | `:performing_arts:` | 🎨 | `:art:` |
 | 🎬 | `:clapper:` | 🎤 | `:microphone:` |
 | 🎧 | `:headphones:` | 🎼 | `:musical_score:` |
@@ -368,11 +315,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 ---
 
 ## 📱 사물 · 기술
-
-### 전자기기
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | ⌚ | `:watch:` | 📱 | `:iphone:` |
 | 💻 | `:computer:` | ⌨️ | `:keyboard:` |
 | 🖥️ | `:desktop_computer:` | 🖨️ | `:printer:` |
@@ -386,11 +328,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 🪫 | `:low_battery:` | 🔌 | `:electric_plug:` |
 | 💡 | `:bulb:` | 🔦 | `:flashlight:` |
 | 🕯️ | `:candle:` | | |
-
-### 도구 · 의료
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🔒 | `:lock:` | 🔓 | `:unlock:` |
 | 🔑 | `:key:` | 🗝️ | `:old_key:` |
 | 🔨 | `:hammer:` | 🪓 | `:axe:` |
@@ -402,11 +339,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 💊 | `:pill:` | 🩹 | `:adhesive_bandage:` |
 | 🩺 | `:stethoscope:` | 🩻 | `:x-ray:` |
 | 🦠 | `:microbe:` | | |
-
-### 문구 · 사무
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | ✏️ | `:pencil2:` | ✒️ | `:black_nib:` |
 | 📝 | `:memo:` | 📎 | `:paperclip:` |
 | 📏 | `:straight_ruler:` | 📐 | `:triangular_ruler:` |
@@ -422,11 +354,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 📄 | `:page_facing_up:` | 📦 | `:package:` |
 | 📫 | `:mailbox:` | 📬 | `:mailbox_with_mail:` |
 | 📮 | `:postbox:` | | |
-
-### 돈 · 금융
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 💰 | `:moneybag:` | 💴 | `:yen:` |
 | 💵 | `:dollar:` | 💶 | `:euro:` |
 | 💷 | `:pound:` | 💸 | `:money_with_wings:` |
@@ -438,10 +365,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ## 💬 기호 · 심볼
 
-### 하트
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | ❤️ | `:heart:` | 🧡 | `:orange_heart:` |
 | 💛 | `:yellow_heart:` | 💚 | `:green_heart:` |
 | 💙 | `:blue_heart:` | 💜 | `:purple_heart:` |
@@ -452,11 +375,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 💓 | `:heartbeat:` | 💗 | `:heartpulse:` |
 | 💖 | `:sparkling_heart:` | 💘 | `:cupid:` |
 | 💝 | `:gift_heart:` | 💟 | `:heart_decoration:` |
-
-### 도형 · 색상
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🔴 | `:red_circle:` | 🟠 | `:orange_circle:` |
 | 🟡 | `:yellow_circle:` | 🟢 | `:green_circle:` |
 | 🔵 | `:blue_circle:` | 🟣 | `:purple_circle:` |
@@ -465,11 +383,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 🔻 | `:small_red_triangle_down:` | 🔷 | `:large_blue_diamond:` |
 | 🔶 | `:large_orange_diamond:` | 🔹 | `:small_blue_diamond:` |
 | 🔸 | `:small_orange_diamond:` | | |
-
-### 체크 · 경고 · 금지
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | ✅ | `:white_check_mark:` | ❌ | `:x:` |
 | ⭕ | `:o:` | ❓ | `:question:` |
 | ❗ | `:exclamation:` | ‼️ | `:bangbang:` |
@@ -477,11 +390,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | ⛔ | `:no_entry:` | 🚫 | `:no_entry_sign:` |
 | 🔞 | `:underage:` | 📵 | `:no_mobile_phones:` |
 | 🚭 | `:no_smoking:` | | |
-
-### 알림 · 방향 · 기타
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🔔 | `:bell:` | 🔕 | `:no_bell:` |
 | 🔇 | `:mute:` | 🔊 | `:louder_sound:` |
 | 🔃 | `:arrows_clockwise:` | 🔄 | `:arrows_counterclockwise:` |
@@ -499,10 +407,6 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 
 ## 🎉 이벤트 · 기타
 
-### 이벤트 · 축하
-
-| Emoji | Code | Emoji | Code |
-|:-----:|------|:-----:|------|
 | 🎃 | `:jack_o_lantern:` | 🎄 | `:christmas_tree:` |
 | 🎆 | `:fireworks:` | 🎇 | `:sparkler:` |
 | 🧨 | `:firecracker:` | ✨ | `:sparkles:` |
@@ -515,11 +419,3 @@ description: "섭섭하지 않을 만큼 모아뒀으니 마음껏 쓰시오.."
 | 🎍 | `:tanabata_tree:` | 🧿 | `:nazar_amulet:` |
 | 💎 | `:gem:` | 🧸 | `:teddy_bear:` |
 | 🎭 | `:performing_arts:` | 🎪 | `:circus_tent:` |
-
----
-
-> **💡 사용 팁**
->
-> - GitHub README, Issues, PR에서 `:코드:` 형식으로 바로 사용할 수 있습니다.
-> - 플랫폼마다 지원 여부가 다를 수 있으므로, 이모지를 직접 붙여넣는 방식도 병행 권장합니다.
-> - 전체 이모지 목록 참고: [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
