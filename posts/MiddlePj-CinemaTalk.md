@@ -7,7 +7,7 @@ category: "Dev"
 
 # 1. 게시글 작성 (BoardOkController)
 
-![image.png](attachment:35f302af-5a12-43ed-a428-af6e5d469847:image.png)
+<img width="1367" height="926" alt="Image" src="https://github.com/user-attachments/assets/996fac9f-dcf8-4fcc-b2c6-39581edf7cf8" />
 
 ### 구현 내용
 
@@ -109,7 +109,7 @@ if (e.keyCode == 13) { items[currentFocus].click(); }       // 선택
 
 # 2. 게시글 목록 & 페이지네이션 (BoardListController)
 
-![image.png](attachment:f4254e51-6d69-488f-9965-f56933ea293c:image.png)
+<img width="1714" height="864" alt="Image" src="https://github.com/user-attachments/assets/23e61ac4-55ea-46b3-bd27-112d351c3875" />
 
 ### 구현 내용
 
@@ -227,7 +227,7 @@ if (movieId != 0) {
 
 # 3. 게시글 상세 & 링크 미리보기 (PostDetailController)
 
-![image.png](attachment:91404ea2-071b-4d3d-a21f-97910dd3d5a8:image.png)
+<img width="1703" height="909" alt="Image" src="https://github.com/user-attachments/assets/93bef593-28cd-4e9b-bf98-8057768a0f63" />
 
 ### 구현 내용
 
@@ -371,7 +371,7 @@ json.append("]}");
 # 4. 게시글 수정/삭제 
 (BoardUpdateOkController/BoardDeleteController)
 
-![image.png](attachment:67698266-f956-4aa6-b45d-0d36952f24ef:image.png)
+<img width="959" height="863" alt="Image" src="https://github.com/user-attachments/assets/d360d61c-ba24-4179-9061-0c7ebf7ed741" />
 
 ### 구현 내용
 
@@ -442,7 +442,7 @@ forward.setRedirect(false);
 
 # 5. 사이드바 & 홈 하단 인기글/최근글 노출
 
-![image.png](attachment:5948669d-b7bb-478f-a30d-3c91018f025b:image.png)
+<img width="936" height="723" alt="Image" src="https://github.com/user-attachments/assets/9a360334-9325-4be0-bf2d-bd24a2bfff9f" />
 
 ### 구현 방식
 
@@ -455,7 +455,7 @@ forward.setRedirect(false);
 
 # 6. 댓글 시스템 (CommentsOkController/CommentsDAO)
 
-![image.png](attachment:f70dfdb1-7b71-41b3-989c-bbb0c45b50d5:image.png)
+<img width="749" height="743" alt="Image" src="https://github.com/user-attachments/assets/d38f8750-7165-496b-bcbd-af344d1ac13d" />
 
 ### 구현 내용
 
@@ -541,19 +541,3 @@ int result = CommentsServiceImpl.getInstance().commentsDeleteTree(map);
 // 삭제 권한: 최상위 댓글 작성자 본인만 가능, 별도 SELECT 없이 SQL 안에서 검증
 ```
 
----
-
-## 12. 특이 구현 포인트 (면접 질문 대비)
-
-| 포인트 | 설명 |
-| --- | --- |
-| 복합 PK | `(boardId, boardType)` → 게시판 타입별로 같은 ID 존재 가능, BOARD_LIKE도 동일 복합 FK |
-| 비정규화 | `movieTitle`을 BOARD에 스냅샷 저장 → 영화 삭제 후에도 게시글에서 제목 유지 |
-| 동적 SQL | MyBatis `<if>`, `<choose><when>` → movieId 유무에 따라 INSERT/UPDATE SQL 분기 |
-| SSRF 방지 | 링크 미리보기 시 `InetAddress`로 로컬/사설망 IP 접근 차단 |
-| 조회수 버그 수정 | `updateReadCount`에 조건 없이 무조건 commit → 실시간 인기글 반영 보장 |
-| 경량 JSON 응답 | 인기글/좋아요 API에서 외부 라이브러리 없이 `StringBuilder`로 직접 JSON 직렬화 |
-| 대댓글 연쇄 삭제 | COMMENTS 자기참조 FK `ON DELETE CASCADE` + `commentsDeleteTree()` 서비스 메서드 이중 보장 |
-| 싱글톤 패턴 | Service/DAO 전 계층에서 `getInstance()` 패턴 적용 → 객체 재생성 방지 |
-
----
