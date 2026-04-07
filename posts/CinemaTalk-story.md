@@ -64,7 +64,7 @@ Oracle CONNECT BY로 트리 전체를 한 번에 지우는 쿼리를 처음 작�
 4주라는 시간이 생각보다 짧았다. 처음 1~2주는 구조 잡고 기본 기능 붙이는 데 썼고, 마지막 한 주는 버그 잡고 기능 다듬는 데 거의 다 썼다. 마감이 가까워질수록 고치면 다른데서 터지고 또 터지는 연쇄 테러 상황이 반복됐는데, 그게 오히려 "코드가 어떻게 연결되어 있는지" 가장 빠르게 배우는 방법이었던 것 같다.
 같이 웃고 당황하고 떠들면서 우왕좌왕 회의하고 진땀을 뺀게 안잊혀지는거 보면 참 보람찬 1달 이었다.
 
-<img width="224" height="224" alt="Image" src="https://github.com/user-attachments/assets/261f0265-5a63-45c4-ad95-81baf49e84db" />
+![Image](https://github.com/user-attachments/assets/261f0265-5a63-45c4-ad95-81baf49e84db)
 
 ---
 
