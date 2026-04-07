@@ -5,6 +5,19 @@ description: "Servlet MVC 지옥의 맛 찍먹 ver 1."
 category: "Dev"
 ---
 
+### 게시판(Board) 관련 패키지 간략 구조
+
+```
+Controller/Board/  ← 요청 처리 (각 기능별 Controller 분리)
+Service/Board/     ← 비즈니스 로직
+DAO/Board/         ← DB 접근 (MyBatis SqlSession 직접 관리)
+DTO/Board/         ← 데이터 전달 객체
+mappers/Board/     ← MyBatis XML Mapper (SQL 분리)
+SQL/Board/         ← DDL (테이블 생성 스크립트)
+```
+
+---
+
 # 1. 게시글 작성 (BoardOkController)
 
 ![Image](https://github.com/user-attachments/assets/996fac9f-dcf8-4fcc-b2c6-39581edf7cf8)
