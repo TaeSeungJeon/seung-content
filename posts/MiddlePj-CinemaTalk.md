@@ -5,6 +5,14 @@ description: "Servlet MVC 지옥의 맛 찍먹 ver 1."
 category: "Dev"
 ---
 
+# 개발 환경 & ERD 보고 가실게요~
+
+
+![Image](https://github.com/user-attachments/assets/480e6514-b1a1-4523-baed-c6a0e18363eb)
+
+---
+
+
 ### 게시판(Board) 관련 패키지 간략 구조
 
 ```
