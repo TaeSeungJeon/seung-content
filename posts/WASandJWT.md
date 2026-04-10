@@ -27,17 +27,13 @@ DB / 외부 API
 
 ### WAS 사용 방법
 
-일반적인 방식에서는 Tomcat을 따로 설치하고
-
-war 파일로 빌드해서 서버에 직접 올려야 했다.
+일반적인 방식에서는 Tomcat을 따로 설치하고 war 파일로 빌드해서 서버에 직접 올려야 했다.
 
 일반적인 방식    →  Tomcat 설치 → war 빌드 → webapps 배포 → 실행
 
 Spring Boot  →  jar 빌드 → java -jar 실행 → 끝
 
-Spring Boot는 Tomcat을 내장 하고 있어서
-
-jar 파일 하나로 WAS가 함께 실행된다.
+Spring Boot는 Tomcat을 내장 하고 있어서 jar 파일 하나로 WAS가 함께 실행된다.
 
 ---
 
