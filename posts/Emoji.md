@@ -205,7 +205,7 @@ category: "Act."
 | 🪘 | `:long_drum:` | 🎷 | `:saxophone:` | 🎺 | `:trumpet:` | 🎸 | `:guitar:` |
 | 🪕 | `:banjo:` | 🎻 | `:violin:` | 🪗 | `:accordion:` | 🎲 | `:game_die:` |
 | ♟️ | `:chess_pawn:` | 🧩 | `:jigsaw:` | 🪀 | `:yo-yo:` | 🪁 | `:kite:` |
-| 🎰 | `:slot_machine:` | 🎳 | `:bowling:` | | | | |
+| 🎰 | `:slot_machine:` | 🎳 | `:bowling:` | 🔫 | | | |
 
 <br>
 
