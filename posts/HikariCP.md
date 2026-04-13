@@ -1,5 +1,5 @@
 ---
-title: "커넥션 풀, 왜필요한가? 그리고 HikariCP 알고 쓰자! "
+title: "커넥션 풀, 왜필요한가? 그리고 HikariCP 알고 쓰자! 光"
 date: "2026-04-05"
 description: "JDBC 학습중이라면 히카리는 듣고 가자!"
 category: "Dev"
