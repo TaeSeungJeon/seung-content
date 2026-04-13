@@ -1,5 +1,5 @@
 ---
-title: "WAS & JWT 기본을 알아야 강화도 할 수 있는거다!"
+title: "서버가 아무것도 저장을 하지 않는다고? WAS & JWT!"
 date: "2026-04-05"
 description: "WAS와 JWT의 정의, 사용 방법, 그리고 둘이 만났을 때 어떤 환경이 만들어지는가"
 category: "Dev"
