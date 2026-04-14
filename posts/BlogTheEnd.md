@@ -17,12 +17,10 @@ category: "Dev"
 
 # 배포 구조
 
-| 구성 요소 | 배포 환경 |
-|---|---|
-| React 프론트엔드 | GitHub Pages |
-| Spring Boot 백엔드 | Oracle Cloud VM.Standard.A1.Flex (ARM, 1OCPU / 4GB) |
-| 도메인 / SSL | DuckDNS + Let's Encrypt (Certbot) |
-| 리버스 프록시 | Nginx |
+React 프론트엔드 : GitHub Pages 
+Spring Boot 백엔드 : Oracle Cloud VM.Standard.A1.Flex (ARM, 1OCPU / 4GB) 
+도메인 / SSL : DuckDNS + Let's Encrypt (Certbot) 
+리버스 프록시 : Nginx 
 
 ---
 
