@@ -146,13 +146,13 @@ git push 후 배포 스크립트 한 줄로 자동 배포되는 편리함 적용
 
 | 레포지토리 | 역할 | 배포 |
 |---|---|---|
-| seung-frontend | React 코드 | GitHub Pages |
-| seung-backend | Spring Boot 코드 | Oracle Cloud |
-| seung-content | 블로그 글 .md 파일 | - |
+seungBolg : React 코드 -> 배포 : GitHub Pages 
+seungBlog-backend : Spring Boot 코드 -> 배포 : Oracle Cloud
+seung-content : .md 파일 작성 
 
 이렇게 분리하면 글을 추가할 때는 seung-content 레포만, 
 
-UI를 바꿀 때는 seung-frontend 레포만, 
+UI를 바꿀 때는 seungBolg 레포만, 
 
 API 로직을 수정할 때는 seung-backend 레포만 건드리면 된다.
 
@@ -160,14 +160,13 @@ API 로직을 수정할 때는 seung-backend 레포만 건드리면 된다.
 
 # 백엔드 레이어 설계
 
-| 레이어 | 역할 |
-|---|---|
-| Controller | HTTP 요청/응답 처리만 담당 |
-| Service | 비즈니스 로직, GitHub API 호출 |
-| Security | JWT 검증 필터, GitHub OAuth 처리 |
-| Config | CORS, Security, Bean 설정 |
-| DTO | 요청/응답 데이터 형식 정의 |
-| Exception | 전역 예외처리 (@RestControllerAdvice) |
+
+Controller : HTTP 요청/응답 처리만 담당 
+Service : 비즈니스 로직, GitHub API 호출 
+Security : JWT 검증 필터, GitHub OAuth 처리 
+Config : CORS, Security, Bean 설정 
+DTO : 요청/응답 데이터 형식 정의 
+Exception : 전역 예외처리 (@RestControllerAdvice) 
 
 Controller와 Service를 분리한 이유는 단일 책임 원칙(SRP)을 지키기 위함이다. 
 
@@ -254,7 +253,7 @@ DB 없이 GitHub 레포가 CMS(콘텐츠 관리 시스템) 역할.
 - ✅ 전역 예외처리
 - ✅ CORS 설정
 - ✅ 프론트 GitHub Pages 배포
-- 🔄 백엔드 Oracle Cloud 배포
+- ✅ 백엔드 Oracle Cloud 배포
 
 ---
 
