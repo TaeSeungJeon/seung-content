@@ -144,8 +144,6 @@ git push 후 배포 스크립트 한 줄로 자동 배포되는 편리함 적용
 
 총 3개의 레포지토리로 분리했다. 관심사의 분리(Separation of Concerns) 원칙을 적용
 
-| 레포지토리 | 역할 | 배포 |
-|---|---|---|
 seungBolg : React 코드 -> 배포 : GitHub Pages 
 seungBlog-backend : Spring Boot 코드 -> 배포 : Oracle Cloud
 seung-content : .md 파일 작성 
