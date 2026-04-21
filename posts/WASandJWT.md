@@ -67,11 +67,12 @@ eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUYWVTZXVuZyJ9.abc123xyz
 
 점(.)으로 구분된 세 덩어리로 이루어져 있다.
 
-| 부분 | 내용 | 역할 |
-|------|------|------|
-| **Header** | `{"alg": "HS256", "typ": "JWT"}` | 암호화 알고리즘 정보 |
-| **Payload** | `{"sub": "TaeSeung", "exp": 1234567890}` | 실제 담긴 사용자 데이터 |
-| **Signature** | Header + Payload를 비밀키로 서명한 값 | 위변조 방지 |
+**Header** : `{"alg": "HS256", "typ": "JWT"}` : 암호화 알고리즘 정보  
+
+**Payload** : `{"sub": "TaeSeung", "exp": 1234567890}` : 실제 담긴 사용자 데이터  
+
+**Signature** : Header + Payload를 비밀키로 서명한 값 : 위변조 방지  
+
 
 **Payload는 암호화가 아니라 Base64 인코딩이다.**
 
