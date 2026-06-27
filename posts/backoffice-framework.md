@@ -1,5 +1,5 @@
 ---
-title: "백오피스 구현 정리 — 권한·역할·레벨링·JPA·React 이렇게 만들었다"
+title: "백오피스 구현 정리! 권한·역할·레벨링·JPA·React 이렇게 만들었다"
 date: "2026-06-27"
 description: "직접 구현한 백오피스의 핵심 기술 회고. 메뉴 RBAC 권한 설계, 역할 관리, 권한 레벨링, JPA 소프트삭제·복합키, JWT 인가와 React 권한 게이팅까지."
 category: "Dev"
